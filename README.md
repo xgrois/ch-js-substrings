@@ -11,4 +11,4 @@ How people consider this problem: _Easy-complexity_
 
 ## Result
 
-Check it online as a GitHub Page: [https://xgrois.ch-js-substrings](https://xgrois.ch-js-substrings)
+Check it online as a GitHub Page: [https://xgrois.github.io/ch-js-substrings/](https://xgrois.github.io/ch-js-substrings/)
